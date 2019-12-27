@@ -1,2 +1,2 @@
 # **README.md**
-# 购物车(https://zyd0814.github.io/shop-cart/dist)
+https://traintestone.github.io/shop-cart/dist/index.html
